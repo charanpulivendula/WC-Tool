@@ -13,11 +13,13 @@ This Python-based tool efficiently reads and processes large files in chunks. It
   - **Bytes**: Total size of the file in bytes.
   - **Words**: Total number of words in the file.
   - **Characters**: Total number of characters in the file.
+  - **Lines**: No. of lines
 - Command-line flags to customize output:
   - `-b`: Display byte count.
   - `-w`: Display word count.
   - `-c`: Display character count.
-  - `-all`: Display all metrics (default behavior).
+  - `-l`: Display line count.
+  - ``: Display all metrics (default behavior).
 - Robust error handling for invalid file paths or missing arguments.
 
 ---
