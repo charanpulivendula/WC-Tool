@@ -1,0 +1,7 @@
+This is a test file.
+It contains several lines of text.
+Each line has words, characters, and even punctuation!
+
+How many bytes, words, and characters are here?
+Let's test your script with this sample file.
+Good luck!
